@@ -1,1 +1,1 @@
-# Shor-s_algorithm_qiskit_tutorial
+# Shors algorithm(qiskit)
